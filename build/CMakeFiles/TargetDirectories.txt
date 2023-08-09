@@ -1,3 +1,0 @@
-/home/kent/threadpool/build/CMakeFiles/rebuild_cache.dir
-/home/kent/threadpool/build/CMakeFiles/edit_cache.dir
-/home/kent/threadpool/build/CMakeFiles/threadpool.dir
